@@ -1,0 +1,12 @@
+source 'https://github.com/xnxy/ZVTestPrivateSpecs.git'
+#source 'https://github.com/CocoaPods/Specs.git'
+
+use_frameworks!
+platform :ios, '9.0'
+inhibit_all_warnings!
+
+target 'ZVTestExample' do
+    
+	pod 'ZVTestPod', '~> 0.0.1'
+
+end

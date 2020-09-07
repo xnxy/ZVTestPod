@@ -1,0 +1,16 @@
+PODS:
+  - ZVTestPod (0.0.1)
+
+DEPENDENCIES:
+  - ZVTestPod (~> 0.0.1)
+
+SPEC REPOS:
+  https://github.com/xnxy/ZVTestPrivateSpecs.git:
+    - ZVTestPod
+
+SPEC CHECKSUMS:
+  ZVTestPod: 4658670fb31f0a2d08965ec0fe20641addb5d2c1
+
+PODFILE CHECKSUM: 8a24ba7489cf2c475789b369793be4f98b7e8a34
+
+COCOAPODS: 1.6.1

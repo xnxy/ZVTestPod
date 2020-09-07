@@ -1,0 +1,6 @@
+framework module ZVTestPod {
+  umbrella header "ZVTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
